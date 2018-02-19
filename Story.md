@@ -9,3 +9,5 @@ One day, he was invited to join a project.
 # Chapter 3: The Promotion
 
 The boss decided to have a talk with him.
+
+# Chapter 4:
