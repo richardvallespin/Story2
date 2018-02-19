@@ -12,3 +12,6 @@
 
 # Chapter 5: Prod Issue
 - A critical prod issue occurred. Everyone looked to Steve for the solution.
+
+# Chapter 6: Resolution
+- Steve found the bug, thanks to careful replication.
